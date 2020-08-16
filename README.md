@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<p align="center"><a name="top" href="https://facebook.com/IGP0012/"><img width="60%" src="https://i.ibb.co/fSYsDR8/Welcome.png"></a></p>
+
+___
+##  
+<p align="center"><b>:ribbon: This is my GitHub profile, here are some of my personal repositories. You can contact me by clicking the welcome banner :ribbon:</b></p>
+
+## **Stats**
+![fdciabdul github stats](https://github-readme-stats.vercel.app/api?username=IbnuGunawanPrayogo&show_icons=true&title_color=000&icon_color=79ff97&text_color=000)
+
 <!--
 **IbnuGunawanPrayogo/IbnuGunawanPrayogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
