@@ -3,7 +3,6 @@
 <p align="center"><img width="60%" src="https://i.ibb.co/fSYsDR8/Welcome.png"></p>
 
 ___
-##  
 <p align="center"><b>:ledger: This is my GitHub profile, here are some of my personal repositories. :ledger:</b></p>
 
 ## **Stats**
