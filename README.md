@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<p align="center"><a name="top" href="https://facebook.com/IGP0012/"><img width="60%" src="https://i.ibb.co/fSYsDR8/Welcome.png"></a></p>
+<p align="center"><img width="60%" src="https://i.ibb.co/fSYsDR8/Welcome.png"></p>
 
 ___
 ##  
-<p align="center"><b>:ribbon: This is my GitHub profile, here are some of my personal repositories. You can contact me by clicking the welcome banner :ribbon:</b></p>
+<p align="center"><b>:ledger: This is my GitHub profile, here are some of my personal repositories. :ledger:</b></p>
 
 ## **Stats**
 ![fdciabdul github stats](https://github-readme-stats.vercel.app/api?username=IbnuGunawanPrayogo&show_icons=true&title_color=000&icon_color=79ff97&text_color=000)
