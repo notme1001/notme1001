@@ -1,7 +1,7 @@
 
 <!-- ### Hi there 👋 -->
 
-<p align="center"><img width="60%" src="https://i.ibb.co/fSYsDR8/Welcome.png"></p>
+<p align="center"><img width="60%" src="https://i.ibb.co/Dbm1JWZ/Welcome.png"></p>
 
 <center>
 <a href="https://fb.me/IGP0012"><img src="https://img.icons8.com/dusk/64/000000/facebook-circled.png" alt="alt text" width="30" height="30"></a>      &nbsp;&nbsp;   <a href="https://instagram.com/ibnu_890"><img src="https://img.icons8.com/dusk/64/000000/instagram-new.png" alt="alt text" width="30" height="30"></a>
