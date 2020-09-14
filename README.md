@@ -15,6 +15,14 @@ ___
 ## **Stats**
 ![fdciabdul github stats](https://github-readme-stats.vercel.app/api?username=IbnuGunawanPrayogo&show_icons=true&title_color=000&icon_color=79ff97&text_color=000)
 
+<details>
+<summary></summary>
+    <p align="center">
+    <a href="#">
+        <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbnuGunawanPrayogo&hide=html,&hide_border=true&title_color=28fc4a&text_color=1d1d1d"/>
+    </a>
+    </p>
+</details>
 <!--
 **IbnuGunawanPrayogo/IbnuGunawanPrayogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
