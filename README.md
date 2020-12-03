@@ -4,9 +4,8 @@
 <p align="center"><img width="60%" src="https://i.ibb.co/Dbm1JWZ/Welcome.png"></p>
 
 <p align="center">
-<a href="https://fb.me/IGP0012"><img src="https://img.icons8.com/dusk/64/000000/facebook-circled.png" alt="alt text" width="30" height="30"></a>      &nbsp;&nbsp;   <a href="https://instagram.com/ibnu_890"><img src="https://img.icons8.com/dusk/64/000000/instagram-new.png" alt="alt text" width="30" height="30"></a>
- &nbsp;&nbsp; 
-<a href="https://dribbble.com/IbnuGunawan"><img src="https://img.icons8.com/dusk/64/000000/dribbble.png" alt="alt text" width="30" height="30"></a>
+[![Linkedin Badge](https://img.shields.io/badge/-ibnugp-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ibnugp/)](https://www.linkedin.com/in/ibnugp/)
+[![Instagram Badge](https://img.shields.io/badge/-ibnugp-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ibnugp/)](https://www.linkedin.com/in/ibnugp/)
 </p>
 
 ___
