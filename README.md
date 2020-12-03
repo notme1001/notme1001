@@ -14,6 +14,7 @@ ___
 
 ## **Stats**
 ![fdciabdul github stats](https://github-readme-stats.vercel.app/api?username=IbnuGunawanPrayogo&show_icons=true&theme=radical)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=IbnuGunawanPrayogo&layout=compact&theme=nightowl)
 
 <details>
 <summary></summary>
