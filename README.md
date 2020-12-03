@@ -13,7 +13,7 @@ ___
 <p align="center"><b>:ledger: This is my GitHub profile, here are some of my personal repositories. :ledger:</b></p>
 
 ## **Stats**
-![fdciabdul github stats](https://github-readme-stats.vercel.app/api?username=IbnuGunawanPrayogo&show_icons=true&title_color=000&icon_color=79ff97&theme=radical)
+![fdciabdul github stats](https://github-readme-stats.vercel.app/api?username=IbnuGunawanPrayogo&show_icons=true&theme=radical)
 
 <details>
 <summary></summary>
