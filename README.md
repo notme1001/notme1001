@@ -4,7 +4,7 @@
 <p align="center"><img width="60%" src="https://i.ibb.co/Dbm1JWZ/Welcome.png"></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-ibnugp-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ibnugp/)](https://www.linkedin.com/in/ibnugp/)
-[![Instagram Badge](https://img.shields.io/badge/-ibnugp-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ibnugp/)](https://www.linkedin.com/in/ibnugp/)
+[![Instagram Badge](https://img.shields.io/badge/-ibnu_890-C13584?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/ibnu_890/)](https://www.linkedin.com/in/ibnugp/)
 
 ___
 <p align="center"><b>:ledger: This is my GitHub profile, here are some of my personal repositories. :ledger:</b></p>
