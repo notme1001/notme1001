@@ -10,19 +10,19 @@ ___
 <p align="center"><b>:ledger: This is my GitHub profile, here are some of my personal repositories. :ledger:</b></p>
 
 ## **Stats**
-![igp Github stats](https://github-readme-stats.vercel.app/api?username=IbnuGunawanPrayogo&show_icons=true&theme=tokyonight)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=IbnuGunawanPrayogo&layout=compact&theme=nightowl)
+![igp Github stats](https://github-readme-stats.vercel.app/api?username=notme1001&show_icons=true&theme=tokyonight)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=notme1001&layout=compact&theme=nightowl)
 
 <details>
 <summary></summary>
     <p align="center">
     <a href="#">
-        <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbnuGunawanPrayogo&hide=html,&hide_border=true&title_color=28fc4a&text_color=1d1d1d"/>
+        <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notme1001&hide=html,&hide_border=true&title_color=28fc4a&text_color=1d1d1d"/>
     </a>
     </p>
 </details>
 <!--
-**IbnuGunawanPrayogo/IbnuGunawanPrayogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**notme1001/notme1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
