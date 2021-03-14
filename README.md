@@ -4,7 +4,7 @@
     </a>
 </p>
 <details>
-<summary><b>'</b>Life is not fair get, used to it!<b>'.+.'</b>Bill Gates<b>'</b></summary>
+<summary><b>'</b>Life is not fair get, used to it!<b>'.-.'</b>Bill Gates<b>'</b></summary>
     <br>
     <p align="center">
         <a target="_blank" href="https://spotify-github-profile.vercel.app/api/view?uid=4sc55kic90h6g89bw3kzizerw&redirect=true">
