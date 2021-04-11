@@ -16,6 +16,13 @@
         &#127912; <a href="https://dribbble.com/IbnuGunawan" target="_blank">Dribbble</a> &nbsp;
           </p>
     <h2></h2>
+    <p align="center">
+        <a href="#ǝɔϟlʍo" target="_blank">
+            <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=00000000&layout=compact&username=notme1001&hide_border=true&title_color=373e4d&text_color=3b4252"/>
+            <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?bg_color=00000000&username=notme1001&show_icons=true&hide=commits&hide_border=true&icon_color=4C566A&title_color=373e4d&text_color=3b4252"/>
+        </a>
+    </p>
+    <h2></h2>
     <br>
     <p align="center">
         <a target="_blank" href="https://spotify-github-profile.vercel.app/api/view?uid=4sc55kic90h6g89bw3kzizerw&redirect=true">
