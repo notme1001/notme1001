@@ -1,25 +1,19 @@
-
 <p align="center">
     <a target="_blank" href="#duchh10101010110">
         <img width="100%" src="https://github.com/notme1001/notme1001/blob/assets/cov.png">
     </a>
 </p>
 <p align="center">
-<summary>
 Welcome to my Github!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , 
-</summary>
 </p>
 
 <p align="center">
-<summary>
 I'm Ibnu Gunawan, IT  security & Fullstack Developer Enthusiast from Indonesia.
 I write regular blog posts, most of which you will find on my personal website 
 <span>[<a href="https://ibnuu.com">ibnuu.com</a>]<span>.
-</summary>
 </p>
 
 <p align="center">
-<summary>
 <a href="https://t.me/notme1337" >
 <img src="https://img.shields.io/badge/tele-@notme1337-informational?style=flat&logo=telegram&logoColor=white&color=2f80ed" />
 </a>
@@ -35,7 +29,6 @@ I write regular blog posts, most of which you will find on my personal website
 <a href="http://twitter.com/inuugp" target="_blank">
 <img src="https://img.shields.io/badge/|-inuugp-informational?style=flat&logo=twitter&logoColor=white&color=2f80ed" />
 </a>
-</summary>
 </p>
 
 <p align="center">
