@@ -3,9 +3,8 @@
         <img width="100%" src="https://github.com/notme1001/notme1001/blob/assets/cov.png">
     </a>
 </p>
-<p align="center">
-Welcome to my Github!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , 
-</p>
+
+Welcome to my Github!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 <p align="center">
 I'm Ibnu Gunawan, IT  security & Fullstack Developer Enthusiast from Indonesia.
