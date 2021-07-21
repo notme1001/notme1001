@@ -4,7 +4,9 @@
     </a>
 </p>
 
-Welcome to my Github!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+<p align="center">
+<span> Welcome to my Github!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </span>
+</p>
 
 <p align="center">
 I'm Ibnu Gunawan, IT  security & Fullstack Developer Enthusiast from Indonesia.
