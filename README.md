@@ -19,7 +19,7 @@
     <p align="center">
         <a href="#ǝɔϟlʍo" target="_blank">
             <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=00000000&layout=compact&username=notme1001&hide_border=true&title_color=373e4d&text_color=3b4252"/>
-            <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?bg_color=00000000&username=notme1001&show_icons=true&hide=commits&hide_border=true&icon_color=4C566A&title_color=373e4d&text_color=3b4252"/>
+            <img alt="GitHub Stats" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=notme1001"/>
         </a>
     </p>
     <h2></h2>
