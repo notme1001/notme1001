@@ -1,33 +1,53 @@
+
 <p align="center">
     <a target="_blank" href="#duchh10101010110">
         <img width="100%" src="https://github.com/notme1001/notme1001/blob/assets/cov.png">
     </a>
 </p>
-<details align="center">
-<summary>&#9776; Details</summary>
-<br>
 <p align="center">
-<summary><b></b>Life is not fair get, used to it!<b> - </b>Bill Gates</summary>
+<summary>
+Welcome to my Github!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , 
+</summary>
 </p>
+
 <p align="center">
-        <samp>
-        &#9993; <a href="mailto:notme1001@pm.me" target="_blank">E-Mail</a> &nbsp;
-    	&#128172; <a href="https://matrix.to/#/@notme1001:matrix.org" target="_blank">Matrix</a> &nbsp;
-        &#127912; <a href="https://dribbble.com/IbnuGunawan" target="_blank">Dribbble</a> &nbsp;
+<summary>
+I'm Ibnu Gunawan, IT  security & Fullstack Developer Enthusiast from Indonesia.
+I write regular blog posts, most of which you will find on my personal website 
+<span>[<a href="https://ibnuu.com">ibnuu.com</a>]<span>.
+</summary>
+</p>
+
+<p align="center">
+<summary>
+<a href="https://t.me/notme1337" >
+<img src="https://img.shields.io/badge/tele-@notme1337-informational?style=flat&logo=telegram&logoColor=white&color=2f80ed" />
+</a>
+<a href="mailto:notme1001@pm.me" target="_blank">
+<img src="https://img.shields.io/badge/pm-notme1001[at]pm.me-informational?style=flat&logo=protonmail&logoColor=white&color=2f80ed" />
+</a>
+<a href="https://dribbble.com/IbnuGunawan" target="_blank">
+<img src="https://img.shields.io/badge/|-IbnuGunawan-informational?style=flat&logo=dribbble&logoColor=white&color=2f80ed" />
+</a>
+<a href="https://instagram.com/ibnu_890" target="_blank">
+<img src="https://img.shields.io/badge/|-ibnu_890-informational?style=flat&logo=instagram&logoColor=white&color=2f80ed" />
+</a>
+<a href="http://twitter.com/inuugp" target="_blank">
+<img src="https://img.shields.io/badge/|-inuugp-informational?style=flat&logo=twitter&logoColor=white&color=2f80ed" />
+</a>
+</summary>
+</p>
+
+<p align="center">
+<a href="https://www.buymeacoffee.com/ibnuu" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important; margin-top: 20px !important;" ></a>
           </p>
-    <h2></h2>
+    <divide></divide>
     <p align="center">
         <a href="#ǝɔϟlʍo" target="_blank">
-            <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=00000000&layout=compact&username=notme1001&hide_border=true&title_color=373e4d&text_color=3b4252"/>
             <img alt="GitHub Stats" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=notme1001"/>
         </a>
     </p>
     <h2></h2>
-    <br>
-    <p align="center">
-        <a target="_blank" href="https://spotify-github-profile.vercel.app/api/view?uid=4sc55kic90h6g89bw3kzizerw&redirect=true">
-            <img width="100%" alt="Now Playing" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=4sc55kic90h6g89bw3kzizerw&cover_image=true&theme=novatorem"/>
-        </a>
-    </p>
-    <br>  
-</details>
+<p align="center">
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="18%" />	
+</p>
