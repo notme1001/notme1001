@@ -38,5 +38,4 @@
  <h2></h2>
 </details>
 <p align="center">
-<img src="https://media.tenor.com/images/5c5c599655e6bf1448e9a4f9124abca5/tenor.gif" width="10%" />	
 </p>
