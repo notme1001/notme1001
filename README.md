@@ -1,7 +1,7 @@
  <p align="left"><strong><samp>「</samp></strong></p><p align="center">
     <samp>
-    &#10100;<img src="https://readme-typing-svg.herokuapp.com?color=ffffff&size=14&center=true&vCenter=true&multiline=true&width=130&height=36&lines=Hello+World+"/>&#10101;<br>
-    I'm Ibnu Gunawan, IT security & Fullstack Developer Enthusiast from Indonesia. I write regular blog posts, most of which you will find on my personal website [[&#9998;ibnuu.com](https://ibnuu.com "ibnuu.com")].
+    &#10100; <img src="https://readme-typing-svg.herokuapp.com?color=000000&size=14&center=true&vCenter=true&multiline=true&width=100&height=23&lines=Hello+World+"/> &#10101;<br>
+    I'm Ibnu Gunawan, IT security & Fullstack Developer Enthusiast from Indonesia. I write regular blog posts, most of which you will find on my personal website <a href="https://ibnuu.com" target="_blank">[ &#9998;ibnuu.com ]</a>.
     </samp>
 </p><p align="right"><strong><samp>」</samp></strong></p>
 <details align="center">
@@ -37,5 +37,5 @@
  </p>
  <h2></h2>
 </details>
-<p align="center">
+<p align="center">	
 </p>
