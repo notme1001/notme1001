@@ -1,13 +1,15 @@
  <p align="left"><strong><samp>「</samp></strong></p><p align="center">
     <samp>
-    &#10100;[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&size=14&center=true&vCenter=true&multiline=true&width=130&height=36&lines=Hello+World+)](https://git.io/typing-svg)&#10101;<br>
+    &#10100;<img src="https://readme-typing-svg.herokuapp.com?color=000000&size=14&center=true&vCenter=true&multiline=true&width=130&height=36&lines=Hello+World+"/>&#10101;<br>
     I'm Ibnu Gunawan, IT security & Fullstack Developer Enthusiast from Indonesia. I write regular blog posts, most of which you will find on my personal website [[&#9998;ibnuu.com](https://ibnuu.com "ibnuu.com")].
     </samp>
 </p><p align="right"><strong><samp>」</samp></strong></p>
 <details align="center">
 <summary> &#9835; &#9835; &#9655;</summary>
+<br>
   <img width="100%" height="50%" style="border-radius: 5px;" src="https://i.pinimg.com/originals/64/05/31/6405318ac146473a95bfbdcec2b32943.gif"/>
 <p align="center">
+<br>
 <samp>
 <a href="https://t.me/notme1337" >
 <img src="https://img.shields.io/badge/tele-@notme1337-informational?style=flat&logo=telegram&logoColor=white&color=2f80ed" />
