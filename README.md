@@ -1,6 +1,6 @@
  <p align="left"><strong><samp>「</samp></strong></p><p align="center">
     <samp>
-    &#10100;<strong>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&size=14&center=true&vCenter=true&multiline=true&width=130&height=36&lines=Hello+World+)](https://git.io/typing-svg)</strong> &#10101;<br>
+    &#10100;[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&size=14&center=true&vCenter=true&multiline=true&width=130&height=36&lines=Hello+World+)](https://git.io/typing-svg)&#10101;<br>
     I'm Ibnu Gunawan, IT security & Fullstack Developer Enthusiast from Indonesia. I write regular blog posts, most of which you will find on my personal website [[&#9998;ibnuu.com](https://ibnuu.com "ibnuu.com")].
     </samp>
 </p><p align="right"><strong><samp>」</samp></strong></p>
@@ -35,7 +35,6 @@
  </p>
  <h2></h2>
 </details>
-<h2></h2>
 <p align="center">
 <img src="https://media.tenor.com/images/5c5c599655e6bf1448e9a4f9124abca5/tenor.gif" width="10%" />	
 </p>
