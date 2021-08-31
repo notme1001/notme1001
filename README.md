@@ -7,7 +7,7 @@
 <details align="center">
 <summary> &#9835; &#9835; &#9655;</summary>
 <br>
-  <img width="100%" height="50%" style="border-radius: 5px;" src="https://i.pinimg.com/originals/64/05/31/6405318ac146473a95bfbdcec2b32943.gif"/>
+  <img width="100%" height="50%" style="border-radius: 5px;" src="https://raw.githubusercontent.com/notme1001/notme1001/assets/6405318ac146473a95bfbdcec2b32943.gif"/>
 <p align="center">
 <br>
 <samp>
