@@ -36,7 +36,4 @@
  </a>
  </p>
  <h2></h2>
- <p align="center">
- Inspired 	<a href="https://github.com/owl4ce/owl4ce" target="_blank"> owl4ce </a>
-</p>
 </details>
