@@ -6,10 +6,10 @@
 </p><p align="right"><strong><samp>」</samp></strong></p>
 <details align="center">
 <summary> &#9835; &#9835; &#9655;</summary>
-<!-- <br>
-  <img width="100%" height="50%" style="border-radius: 5px;" src="https://raw.githubusercontent.com/notme1001/notme1001/assets/6405318ac146473a95bfbdcec2b32943.gif"/>
-<p align="center">
-<br> -->
+<br>
+<!--   <img width="100%" height="50%" style="border-radius: 5px;" src="https://raw.githubusercontent.com/notme1001/notme1001/assets/6405318ac146473a95bfbdcec2b32943.gif"/>
+<p align="center"> -->
+<br>
 <samp>
 <!-- <a href="https://t.me/notme1337" >
 <img src="https://img.shields.io/badge/tele-@notme1337-informational?style=flat&logo=telegram&logoColor=white&color=2f80ed" />
@@ -29,7 +29,7 @@
 </samp>
 </p>
 <h2></h2>
-<divide></divide>
+<!-- <divide></divide> -->
 <!--  <p align="center">
  <a href="#notme1001" target="_blank">
  <img alt="GitHub Stats" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=notme1001"/>
