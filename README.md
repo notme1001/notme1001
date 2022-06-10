@@ -9,8 +9,8 @@
 <p align="right"><b><samp>」</samp></b></p>
 
 <br>
-<details align="center">
-<summary> &#9655; </summary>
+<details align="left">
+<summary align="center"> &#9655; </summary>
 
 <h2></h2><br>
 <p align="center">
