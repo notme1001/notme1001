@@ -1,39 +1,57 @@
- <p align="left"><strong><samp>「</samp></strong></p><p align="center">
-    <samp>
+<p align="left"><b><samp>「</samp></b></p>
+  <p align="center">
+     <samp>
     &#10100; <img src="https://readme-typing-svg.herokuapp.com?color=ffffff&size=14&center=true&vCenter=true&multiline=true&width=180&height=23&lines=Hello+World+...+!+"/> &#10101;<br>
     I'm Ibnu Gunawan, IT security & Fullstack Developer Enthusiast from Indonesia. I write regular blog posts, most of which you will find on my personal website <a href="https://ibnuu.com" target="_blank">[ &#9998;ibnuu.com ]</a>.
     </samp>
-</p><p align="right"><strong><samp>」</samp></strong></p>
+    <p align="center">&#9819; &#9819; &#9819;</p>
+  </p>
+<p align="right"><b><samp>」</samp></b></p>
+
+<br>
 <details align="center">
-<summary> &#9835; &#9835; &#9655;</summary>
-<br>
-<!--   <img width="100%" height="50%" style="border-radius: 5px;" src="https://raw.githubusercontent.com/notme1001/notme1001/assets/6405318ac146473a95bfbdcec2b32943.gif"/>
-<p align="center"> -->
-<br>
-<samp>
-<!-- <a href="https://t.me/notme1337" >
-<img src="https://img.shields.io/badge/tele-@notme1337-informational?style=flat&logo=telegram&logoColor=white&color=2f80ed" />
-</a> -->
-<a href="mailto:notme1001@pm.me" target="_blank">
-<img src="https://img.shields.io/badge/pm-notme1001[at]pm.me-informational?style=flat&logo=protonmail&logoColor=white&color=2f80ed" />
-</a>
-<a href="https://dribbble.com/IbnuGunawan" target="_blank">
-<img src="https://img.shields.io/badge/|-IbnuGunawan-informational?style=flat&logo=dribbble&logoColor=white&color=2f80ed" />
-</a>
-<a href="https://instagram.com/ibnu_890" target="_blank">
-<img src="https://img.shields.io/badge/|-ibnu_890-informational?style=flat&logo=instagram&logoColor=white&color=2f80ed" />
-</a>
-<a href="http://twitter.com/inuugp" target="_blank">
-<img src="https://img.shields.io/badge/|-inuugp-informational?style=flat&logo=twitter&logoColor=white&color=2f80ed" />
-</a>
-</samp>
+<summary> &#9655; </summary>
+
+<h2></h2><br>
+<p align="center">
+  <samp>
+  &#9742;
+  	[<a href="https://dribbble.com/IbnuGunawan">dribbble</a>]
+  	[<a href="http://twitter.com/inuugp">twitter</a>]
+    [<a href="mailto:notme1001@protonmail.com">e-mail</a>]
+  &#9742;
+  </samp>
 </p>
+
 <h2></h2>
-<!-- <divide></divide> -->
-<!--  <p align="center">
- <a href="#notme1001" target="_blank">
- <img alt="GitHub Stats" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=notme1001"/>
- </a>
- </p> -->
- <h2></h2>
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me.  
+
+```javascript
+const ibnuGunawan = {
+    location: "Indonesia" | "Jakarta",
+    display: "boy",
+    code: ["Javascript", "Python", "PHP"],
+    askMeAbout: ["web dev", "tech", "app dev"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Express"],
+            python: ["flask"],
+            php: ["Codeigniter"],
+        },
+        frontEnd: {
+        	js: ["NextJs", "ReactJs"],
+        },
+        graduateOf: {
+        	bootcamp: ["dumbways.id"],
+            school: "State Vocational High School 1 Sorong City"
+        },
+        devOps: ["Docker🐳", "Jenkins", "Nginx", "apache2"],
+        databases: ["mongo", "MySql"],
+        misc: ["Firebase", "Socket.IO", "selenium", "php", "chakra-ui", "tailwinds", "figma", "flutter"]
+    },
+    currentFocus: "Work and learn more about today's technology.",
+};
+```
+
 </details>
